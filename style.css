@@ -70,7 +70,7 @@ body {
     text-align: center;
 }
 
-/* Contêineres de entrada e botão */
+/* entrada e botão */
 .input-wrapper {
     display: flex;
     justify-content: center;
@@ -92,7 +92,7 @@ body {
     justify-content: center;
 }
 
-/* Estilos de entrada de texto */
+/* entrada de texto */
 .input-title {
     flex: 1;
     padding: 10px 15px;
